@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@100;300;400;500;600;700;800;900&family=Josefin+Sans:wght@100;200;300;400;500;600;700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family:  Josefin Sans,sans-serif;
+}
+.banner_section{
+    background-image: url("../images/bg-image.png");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.banner_section_main{
+
+}
+.banner_logo{
+
+}
+.banner_para{
+
+}
+.banner_para h1{
+    color: white;
+    line-height: 65px;
+    font-size: 50px;
+}
+.banner_para h1 span{
+    color: #fecb02;
+}
+.banner_para_btn .btn{
+background-color: #fecb02;
+padding: 15px 40px;
+font-weight: 700;
+font-size: 25px;
+border-radius: 30px;
+color: #092E67;
+}
