@@ -42,3 +42,34 @@ color: #092E67;
     background-color: #092E67;
     color: white;
 }
+/* welcome_to_our_gree_start */
+.welcome_to_our_gree_start{
+background-color: #F6F4F0;
+position: relative;
+}
+.welcome_to_our_gree_title{
+ text-align: center;
+}
+.welcome_to_our_gree_title h1{
+    font-weight:600;
+}
+.welcome_to_our_gree_title p{
+    line-height: 30px;
+    font-size: 14px;
+    color: #7d7d7d;;
+}
+.welcome_to_img{
+    position: absolute;
+    left: 0%;
+    top:15%;
+    right: 80%;
+}
+/* welcome_to_our_gree_end */
+/* delivery_price_section_start */
+.delivery_price_section{
+    background-color: white;
+}
+.delivery_price_section_main{
+    text-align: center;
+}
+/* delivery_price_section_end */
