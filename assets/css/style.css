@@ -296,3 +296,14 @@ font-weight: bold;
     background-color: #fecb02;
 }
 /* free_delivery_all_country_end */
+/* landing3_important_section_start */
+.landing3_important_section_start{
+background-color:#FECB02;
+}
+.landing3_important_one{
+    text-align: center;
+}
+.landing3_important_one h2{
+    font-weight: bold;
+}
+/* landing3_important_section_end */
