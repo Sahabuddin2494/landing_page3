@@ -261,3 +261,38 @@ justify-content: space-between;
     font-weight: 700;
     border: none;
 }
+/* free_delivery_all_country_start */
+.free_delivery_all_country_start{
+
+}
+.free_delivery_all_country_main{
+ background-image: url("../images/honeyjar.png");
+ background-repeat: no-repeat;
+ background-size: auto;
+ background-position: center;
+ height: 300px;
+ border-radius: 20px;
+}
+.free_delivery_all_country_main_para{
+ text-align: center;
+ background: hsla(0,0%,95%,.5);
+ -webkit-backdrop-filter: blur(20.5px);
+ backdrop-filter: blur(20.5px);
+ border-radius: 10px;
+
+}
+.free_delivery_all_country_main_para h3{
+font-weight: bold;
+}
+.free_delivery_all_country_main_para .btn{
+    background-color: #092E67;
+    font-weight: bold;
+    color: white;
+    padding: 13px 30px;
+    border-radius: 30px;
+    font-size: 22px;
+}
+.free_delivery_all_country_main_para .btn:hover{
+    background-color: #fecb02;
+}
+/* free_delivery_all_country_end */
