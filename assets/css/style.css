@@ -307,3 +307,47 @@ background-color:#FECB02;
     font-weight: bold;
 }
 /* landing3_important_section_end */
+/* footer_section_start */
+.landing_footer_section{
+background-image: url("../images/Vector2.png");
+background-color: #0D326B;
+background-repeat: no-repeat;
+background-position: center;
+background-size: auto;
+}
+.landing_footer_logo{
+ text-align: center;
+}
+.landing_footer_details_one{
+
+}
+.landing_footer_details_one h4{
+    color: #FECB02;
+    font-weight: bold;
+}
+.landing_footer_details_one p{
+    color: white;
+    font-size: 18px;
+    margin-bottom: 4px;
+}
+
+.landing_footer_details_one_icon{
+
+}
+.landing_footer_details_one_icon span{
+    background-color:yellow;
+}
+.copy_right_section_start{
+ text-align: center;
+}
+.copy_right_section_start h5{
+ color: white;
+ font-weight: bold;
+ margin-bottom: 5px;
+ font-size: 16px;
+}
+.copy_right_section_start h5 a{
+    color: #fecb02;
+    text-decoration: none;
+   }
+/* footer_section_end */
