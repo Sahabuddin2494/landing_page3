@@ -68,8 +68,52 @@ position: relative;
 /* delivery_price_section_start */
 .delivery_price_section{
     background-color: white;
+    position: relative;
 }
 .delivery_price_section_main{
     text-align: center;
+    position: relative;
+}
+.delivery_price_section_para h1{
+    font-weight: bold;
+}
+.delivery_price_section_para{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    right: 30%;
+}
+.delivery_price_section_para .btn{
+    background-color:#fecb02;
+    font-weight: 700;
+    font-size: 25px;
+    padding: 14px 30px;
+    border-radius: 30px;
+    transition:all 0.7s;
+}
+.delivery_price_section_para .btn:hover{
+background-color:#092E67;
+color:white;
+}
+.delivery_price_img2{
+    position: absolute;
+    right: 0%;
+    bottom:55%;
 }
 /* delivery_price_section_end */
+/* adventage_our_gree_start */
+.advantage_our_ghee{
+background-image:url("../images/Vector.png");
+background-color: #092E67;
+background-repeat:no-repeat;
+background-size: cover;
+background-position: center;
+}
+.advantage_our_ghee_title{
+  text-align: center;
+}
+.advantage_our_ghee_title h1{
+font-weight:700;
+line-height: 55px;
+color: white;
+}
