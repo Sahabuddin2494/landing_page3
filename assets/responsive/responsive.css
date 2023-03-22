@@ -1,0 +1,150 @@
+@media(min-width:992px) and (max-width:1199.98px){
+    
+.banner_para h1 {
+    color: white;
+    line-height: 47px;
+    font-size: 30px;
+}
+.banner_para_btn .btn {
+    font-size: 18px;
+}
+.delivery_price_section_para .btn {
+    font-size: 14px;
+   
+}
+.advantage_our_ghee_one_para p {
+    color: white;
+    font-size: 12px;
+    line-height: 17px;
+    padding-top: 12px;
+    text-align: center;
+}
+.advantage_our_ghee_one_para {
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    right: 4%;
+}
+
+}
+
+@media(min-width:768px) and (max-width:991px){
+
+    .banner_para h1 {
+        color: white;
+        line-height: 47px;
+        font-size: 30px;
+    }
+    .banner_para_btn .btn {
+        font-size: 18px;
+    }
+    .delivery_price_section_para .btn {
+        font-size: 14px;
+       
+    }
+    .delivery_price_section_para {
+        position: absolute;
+        top: 10%;
+        left: 30%;
+        right: 30%;
+    }
+    .advantage_our_ghee_one_para {
+        text-align: center;
+        position: absolute;
+        top: 10%;
+        left: 20%;
+        right: 20%;
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px){
+  
+    .banner_para h1 {
+        color: white;
+        line-height: 47px;
+        font-size: 30px;
+    }
+    .banner_para_btn .btn {
+        font-size: 18px;
+    }
+    .delivery_price_section_para .btn {
+        font-size: 14px;
+       
+    }
+    .delivery_price_section_para {
+        position: absolute;
+        top: 10%;
+        left: 30%;
+        right: 30%;
+    }
+    .delivery_price_section_para h1 {
+        font-size: 23px;
+    }
+    .delivery_price_section_para .btn {
+        font-size: 12px;
+        padding: 11px 8px;
+    }
+    .advantage_our_ghee_one_para {
+        text-align: center;
+        position: absolute;
+        top: 7%;
+        left: 3%;
+        right: -2%;
+    }
+    .advantage_our_ghee_one_para p {
+    color: white;
+    font-size: 14px;
+    line-height: 25px;
+    padding-top: 12px;
+    text-align: center;
+}
+
+.advantage_our_ghee_title h1 {
+    font-weight: 700;
+    line-height: 55px;
+    color: white;
+    font-size: 25px;
+}
+}
+
+@media (max-width:575.98px){
+    .banner_para h1 {
+        color: white;
+        line-height: 47px;
+        font-size: 30px;
+    }
+    .banner_para_btn .btn {
+        font-size: 18px;
+    }
+    .delivery_price_section_para .btn {
+        font-size: 14px;
+       
+    }
+    .delivery_price_section_para {
+        position: absolute;
+        top: 8%;
+        left: 10%;
+        right: 7%;
+    }
+    .delivery_price_section_para h1 {
+        font-size: 23px;
+    }
+    .delivery_price_section_para .btn {
+        font-size: 12px;
+        padding: 11px 8px;
+    }
+    .advantage_our_ghee_title h1 {
+        font-weight: 700;
+        line-height: 32px;
+        color: white;
+        font-size: 18px;
+    }
+    .advantage_our_ghee_one_para {
+        text-align: center;
+        position: absolute;
+        top: 18%;
+        left: 20%;
+        right: 15%;
+    }
+}

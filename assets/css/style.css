@@ -11,7 +11,10 @@ body{
 .banner_section{
     background-image: url("../images/bg-image.png");
     background-repeat: no-repeat;
-    background-size:cover;
+    /* background-size:cover; */
+    background-size:auto;
+    background-position: center;
+    height:550px;
 }
 .banner_section_main{
 
@@ -116,4 +119,25 @@ background-position: center;
 font-weight:700;
 line-height: 55px;
 color: white;
+}
+
+.advantage_our_ghee_one{
+    position: relative;
+}
+.advantage_our_ghee_one_main_img{
+
+}
+.advantage_our_ghee_one_para{
+ text-align: center;
+ position: absolute;
+ top: 10%;
+ left:0%;
+ right: 15%;
+}
+.advantage_our_ghee_one_para p{
+color: white;
+font-size: 14px;
+line-height:30px;
+padding-top: 12px;
+text-align: center;
 }
