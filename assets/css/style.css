@@ -141,3 +141,123 @@ line-height:30px;
 padding-top: 12px;
 text-align: center;
 }
+/* youtube_section_start */
+.youtub_section{
+
+}
+/* youtube_section_end */
+/* quickly_order_section_start */
+.quickly_order_section_start{
+    background-color: #FEF5F5;
+}
+.quickly_order_section_title{
+ text-align: center;
+}
+.quickly_order_section_title h1{
+    font-weight:bold;
+}
+/* quickly_order_section_end */
+.quickly_order_section_left{
+
+}
+.quickly_order_section_left label{
+    font-size: 30px;
+    font-weight: 600;
+}
+.quickly_order_left_Payment{
+
+}
+.quickly_order_left_Payment_one{
+background-color: white;
+border-radius: 10px;
+overflow: hidden;
+}
+.quickly_o_l_Pay_title{
+
+}
+.quickly_order_left_Payment_one p{
+    background-color:#FE466D;
+    font-weight: 600;
+    margin-bottom: 0px;
+}
+/* quickly_order_section_left */
+.quickly_order_section_right{
+
+}
+.quickly_order_right_details{
+    border: 1px solid #D1D5DB;
+    border-radius: 10px;
+}
+.quickly_order_right_de_one{
+display: flex;
+justify-content: space-between;
+align-items: center;
+border-bottom: 1px solid #D1D5DB;
+}
+.quickly_order_right_de_one h4{
+ font-size: 20px;
+ font-weight: 600;
+}
+.quickly_order_right_de_one h5{
+font-size: 17px;
+}
+/* one_end */
+.quickly_order_right_de_two{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ border-bottom: 1px solid #D1D5DB;
+}
+.quickly_order_right_de_two_left{
+ display: flex;
+ align-items: center;
+ justify-content:space-around;
+}
+.quickly_order_right_de_two_left p{
+    margin-bottom: 0px;
+    color: #878497;
+    font-size: 14px;
+    padding-left: 5px;
+}
+/* left_end */
+.quickly_order_right_de_two_right{
+ display: flex;
+ align-content: center;
+ justify-content: baseline;
+}
+.quickly_order_right_de_two_right h5{
+    font-size: 17px;
+  padding-left: 10px;
+}
+/* two_end */
+.quickly_order_right_de_three{
+ display: flex;
+ justify-content:space-between;
+ border-bottom: 1px solid #D1D5DB;
+ align-items: center;
+}
+.quickly_order_right_de_three h5{
+ font-size: 17px;
+}
+.quickly_order_right_de_three_part2{
+
+}
+/* quickly_order_right_de_four */
+.quickly_order_right_de_four{
+display: flex;
+justify-content: space-between;
+}
+.quickly_order_right_de_four h5{
+ font-weight: bold;
+}
+.quick_right_place_order_start{
+    background-color: #FE466D;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+}
+.quick_right_place_order_start .btn{
+    color: white;
+    font-weight: 700;
+    border: none;
+}
